@@ -10,6 +10,6 @@ Our most accurate model was combining two models :
 
 With added feature : house sale price, predicted using linear model divided by sqm living)
 
-main tools used for this project: python, pandas, scikit-learn.
+main tools used for this project: python, pandas, scikit-learn, matplotlib, seaborn.
 
 A presentation was made to show the work flow and findings.
